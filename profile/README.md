@@ -31,9 +31,9 @@ The NeuraFLY project is organized into several components, including:
 
 To get started with the NeuraFLY project, please refer to the following resources:
 
-- [Installation Guide](installation.md): Instructions for setting up the development environment and getting started with the project.
+- [Installation Guide](https://docs.google.com/document/d/1XDX4lM9LaRNbL1b44_O4vSUxaMjgMZYwhMNIAdBQuwU/edit?usp=sharing): Instructions for setting up the development environment and getting started with the project.
 - [Tutorials](tutorials/): Step-by-step tutorials covering various aspects of the project, from software development to AI integration.
-- [Documentation](docs/): Detailed documentation covering project architecture, design decisions, and usage instructions.
+- [Documentation](https://docs.google.com/document/d/1-_J4oF6eASBkqB8C5cmWOYl7DfgbYuQ3T2Z3kphKCWc/edit?usp=sharing): Detailed documentation covering project architecture, design decisions, and usage instructions.
 - [Code Samples](examples/): Sample code snippets and projects demonstrating key concepts and techniques used in the NeuraFLY project.
 
 ## Contributing
