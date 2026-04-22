@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6517e249-962c-4013-8ad3-1060f03c45cd" width="400">
   <h1 align="center">NeuraFLY: AI-Integrated Flight Control</h1>
 </p>
 
